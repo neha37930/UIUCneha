@@ -14,7 +14,7 @@
 ## Base settings ##
 url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Vardhan Dongre
+title: Neha Jain
 description: > #this means to ignore newlines until "nav_lists:"
      Graduate Student at University of Illinois Urbana Champaign
 
@@ -44,7 +44,7 @@ timezone: America/Chicago
 
 ## Author & social ##
 author:
-  name: "Vardhan Dongre"
+  name: "Neha Jain"
   email: vdongre22@illinois.edu
   facebook:   #your Facebook username
   # twitter: kitian616
